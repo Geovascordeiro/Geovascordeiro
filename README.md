@@ -3,9 +3,9 @@
 # **_Olá, meu nome é Geovana Cordeiro**
 <div>
     <a href=https://github.com/Geovascordeiro>
-    <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=Geovascordeiro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovascordeirotheme=synthwave&layout=compact&langs_count=10")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovascordeiro&theme=synthwave&layout=compact&langs_count=10")
 
 </div>
 
@@ -30,5 +30,5 @@
     <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
     <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
-    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
 </div>
