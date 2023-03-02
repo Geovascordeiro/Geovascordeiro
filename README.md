@@ -1,6 +1,3 @@
-
-
-# **_Olá, meu nome é Geovana Cordeiro, sou formada em ciência da computação. Atualmente trabalho como desenvolvedora front-end Júnior.**
 <div>
     <a href=https://github.com/Geovascordeiro>
     <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=Geovascordeiro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
